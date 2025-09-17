@@ -23,6 +23,10 @@ libraryDependencies +=  "org.typelevel" %% "weaver-cats" % "@VERSION@" % Test
 
 For other build tools and older SBT versions, read the [installation guide](https://typelevel.org/weaver-test/overview/installation.html).
 
+### Scala Native 0.5.x
+
+The development of Scala Native 0.5.x compatible weaver is currently happening on a `feature/native-0.5` branch. Use `0.11-b0644b4-SNAPSHOT` version if you want to give it a try.
+
 ## Motivation
 
 ![time](docs/assets/time.png)
